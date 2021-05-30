@@ -1,0 +1,54 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  text-align: center;
+}
+
+.intro-section {
+  background-color: #ffc947;
+  color: #ffffff;
+}
+
+.experience-title {
+  font-weight: bold;
+  padding: 2rem 7rem;
+}
+
+.profile-picture {
+  width: 15%;
+}
+
+.cloud {
+  width: 12%;
+}
+
+.experience-row {
+  margin: 5rem auto 20rem auto;
+  line-height: 2;
+}
+
+.tcs-icon, .appbrewery-icon {
+  width: 22rem;
+}
+
+.vusar-icon, .uci-icon {
+  width: 15rem;
+}
+
+.tcs-icon, .vusar-icon {
+  float: left;
+}
+
+.appbrewery-icon, .uci-icon {
+  float: right;
+}
+
+
+
+.references {
+  background-color: #85e6f6;
+}
+
+.contact-info {
+  background-color:#000000;
+  color: #ffffff;
+}
