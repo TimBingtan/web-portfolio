@@ -3,9 +3,34 @@ body {
   text-align: center;
 }
 
+.menu {
+  font-size: 21px;
+}
+
+.nav-item {
+  padding-left: 24px;
+}
+
 .intro-section {
   background-color: #ffc947;
   color: #ffffff;
+  padding-bottom: 15rem;
+  text-align: left;
+}
+
+.intro-profile {
+  padding-top: 55px;
+}
+
+
+.name {
+  font-size: 5rem;
+  padding-left: 10rem;
+}
+
+.description {
+  font-size: 1.75rem;
+  padding-left: 25rem;
 }
 
 .experience-title {
@@ -14,15 +39,27 @@ body {
 }
 
 .profile-picture {
-  width: 15%;
+  width: 21%;
+  border: 13px solid #ffffff;
+  border-radius: 180px;
+  float: right;
+  margin-right: 15rem;
+
 }
+
+.cloud-space {
+  padding-top: 20rem;
+}
+
 
 .cloud {
   width: 12%;
+  position: relative;
+  left: -12rem;
 }
 
 .experience-row {
-  margin: 5rem auto 20rem auto;
+  margin: 5rem auto 13rem auto;
   line-height: 2;
 }
 
@@ -34,19 +71,28 @@ body {
   width: 15rem;
 }
 
-.tcs-icon, .vusar-icon {
+.tcs-icon, .vusar-icon, .appbrewery-icons, .donaldbren-icons {
   float: left;
 }
 
-.appbrewery-icon, .uci-icon {
+.appbrewery-icon, .uci-icon, .sap-alexa-icons {
   float: right;
 }
-
 
 
 .references {
   background-color: #85e6f6;
 }
+
+.reference-row {
+  padding: 55px;
+}
+
+.reference-icon {
+  width: 7rem;
+  margin-bottom: 22px;
+}
+
 
 .contact-info {
   background-color:#000000;
