@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+h5 {
+  font-weight: bold;
+}
+
 .menu {
   font-size: 21px;
 }
@@ -39,9 +43,9 @@ body {
 }
 
 .profile-picture {
-  width: 21%;
+  width: 18%;
   border: 13px solid #ffffff;
-  border-radius: 180px;
+  border-radius: 200px;
   float: right;
   margin-right: 15rem;
 
@@ -49,18 +53,23 @@ body {
 
 .cloud-space {
   padding-top: 20rem;
+  overflow: hidden;
 }
 
 
 .cloud {
-  width: 12%;
+  width: 10%;
   position: relative;
-  left: -12rem;
+  left: -9rem;
 }
 
 .experience-row {
   margin: 5rem auto 13rem auto;
   line-height: 2;
+}
+
+.appbrewery-icon, .sap-alexa-icons {
+  padding: 2rem 2rem;
 }
 
 .tcs-icon, .appbrewery-icon {
