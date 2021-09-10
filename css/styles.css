@@ -26,15 +26,10 @@ a:hover {
 .intro-section {
   background-color: #ffc947;
   color: #ffffff;
-  /*text-align: left;*/
 }
 
 .intro-profile {
-  padding: 16rem 10rem 30rem;
-}
-
-.name-description {
-  text-align: center;
+  padding: 10vw 2.8vw;
 }
 
 
@@ -45,7 +40,8 @@ a:hover {
 
 .description {
   font-size: 1.75rem;
-  padding-left: 25rem;
+  text-align: right;
+  padding-right: 2.5rem;
 }
 
 .experience-title {
@@ -58,7 +54,7 @@ a:hover {
   border: 13px solid #ffffff;
   border-radius: 200px;
   /*margin-right: 11rem;*/
-  margin: auto;
+
 }
 
 .cloud-space {
