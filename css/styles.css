@@ -26,17 +26,21 @@ a:hover {
 .intro-section {
   background-color: #ffc947;
   color: #ffffff;
-  text-align: left;
+  /*text-align: left;*/
 }
 
 .intro-profile {
-  padding: 16rem 15rem 30rem;
+  padding: 16rem 10rem 30rem;
+}
+
+.name-description {
+  text-align: center;
 }
 
 
 .name {
-  font-size: 6rem;
-  padding-left: 10rem;
+  font-size: 7rem;
+  padding: 0;
 }
 
 .description {
@@ -50,12 +54,11 @@ a:hover {
 }
 
 .profile-picture {
-  width: 25%;
+  width: 23rem;
   border: 13px solid #ffffff;
   border-radius: 200px;
-  float: right;
-  margin-right: 11rem;
-
+  /*margin-right: 11rem;*/
+  margin: auto;
 }
 
 .cloud-space {
