@@ -23,15 +23,19 @@ a:hover {
   padding-left: 24px;
 }
 
-/* .navbar {
-  background-color: #F5E8C7;
-} */
+.navbar {
+  transition: background-color 0.3s ease-in;
+}
 
-
-/* Come back to this */
-html:not([data-scroll='0.0']) .navbar {
+html:not([data-scroll="0"]) .navbar {
     background-color: #f8f9fa;
 }
+
+html:not([data-scroll]) .navbar {
+    background-color: #F5E8C7;
+}
+
+
 
 
 .intro-section {
@@ -84,7 +88,7 @@ html:not([data-scroll='0.0']) .navbar {
 
 .experience-row {
   margin: 5rem auto 0 auto;
-  padding-bottom: 13rem;
+  padding-bottom: 10rem;
   line-height: 2;
 }
 
