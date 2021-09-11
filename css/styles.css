@@ -83,28 +83,26 @@ html:not([data-scroll='0.0']) .navbar {
 }
 
 .experience-row {
-  margin: 5rem auto 13rem auto;
+  margin: 5rem auto 0 auto;
+  padding-bottom: 13rem;
   line-height: 2;
 }
 
-.appbrewery-icon, .sap-alexa-icons {
-  padding: 2rem 2rem;
-}
-
-.tcs-icon, .appbrewery-icon {
-  width: 22rem;
-}
-
-.vusar-icon, .uci-icon {
-  width: 15rem;
-}
-
-.tcs-icon, .vusar-icon, .appbrewery-icons, .donaldbren-icons {
+.exp-img {
   float: left;
+  width: 22rem;
+  padding: 2rem;
 }
 
-.appbrewery-icon, .uci-icon, .sap-alexa-icons {
+.project-sc {
+  background-color:#000000;
+  color: #ffffff;
+}
+
+.proj-img {
   float: right;
+  width: 22rem;
+  padding: 2rem;
 }
 
 
