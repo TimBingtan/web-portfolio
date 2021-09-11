@@ -23,14 +23,26 @@ a:hover {
   padding-left: 24px;
 }
 
+/* .navbar {
+  background-color: #F5E8C7;
+} */
+
+
+/* Come back to this */
+html:not([data-scroll='0.0']) .navbar {
+    background-color: #f8f9fa;
+}
+
+
 .intro-section {
-  background-image: url('../images/DSC02396.JPG');
+  /*background-image: url('../images/DSC02396.JPG');*/
+  background-color: #F5E8C7;
   background-size: 100%;
-  color: #ffffff;
+  color: #000000;
 }
 
 .intro-profile {
-  padding: 10vw 2.8vw;
+  padding: 14vw 2.8vw;
 }
 
 
