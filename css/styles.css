@@ -28,12 +28,11 @@ a:hover {
 }
 
 
-
-html:not([data-scroll="0"]) .navbar {
+html:not([data-scroll="0"]) .home-nav{
     background-color: #f8f9fa;
 }
 
-html:not([data-scroll]) .navbar {
+html:not([data-scroll]) .home-nav{
     background-color: #F5E8C7;
 }
 
@@ -136,4 +135,84 @@ html:not([data-scroll]) .navbar {
 
 .contact-icon {
   color: #ffffff;
+}
+
+/*Projects Pages*/
+.projects-intro {
+  background-color:#000000;
+  color: #ffffff;
+  /*can include additional padding*/
+}
+
+
+.projects-page-title {
+  padding-top: 5rem;
+  font-weight: bold;
+  font-size: 5.5rem;
+  /* text-align: left; */
+}
+
+.description-space {
+  width: 480px;
+}
+
+.projects-title-description {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.projects-title-image {
+  width: 12rem;
+}
+
+/* html:not([data-scroll="0"]) .projects-nav{
+    background-color: #f8f9fa;
+}
+
+html:not([data-scroll]) .projects-nav{
+    background-color: #000000;
+}
+ */
+
+.project-list {
+  font-size: 2.5rem;
+  padding-bottom: 6rem;
+}
+
+li {
+  padding: 5px;
+}
+
+.project-gif {
+  width: 38rem;
+}
+
+/*Styling specific project titles*/
+.fineapple {
+  font-family: 'Lobster', cursive;
+}
+
+.keeper {
+  font-family: "McLaren", cursive;
+}
+
+.life-blog {
+  letter-spacing: 5px;
+  font-family: "Helvetica Neue", "Helvetica" , "Arial", sans-serif;
+}
+
+.drum-kit {
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.simon {
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+}
+
+.tindawg {
+  font-family: "Ubuntu";
+  font-weight: bold;
 }
