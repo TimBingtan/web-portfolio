@@ -162,7 +162,7 @@ html:not([data-scroll]) .home-nav{
 }
 
 .projects-title-image {
-  width: 12rem;
+  width: 15rem;
 }
 
 /* html:not([data-scroll="0"]) .projects-nav{
@@ -180,7 +180,7 @@ html:not([data-scroll]) .projects-nav{
 }
 
 li {
-  padding: 5px;
+  padding: 6px;
 }
 
 .project-gif {
