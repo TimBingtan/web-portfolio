@@ -1,0 +1,36 @@
+/*Projects Pages*/
+.projects-intro {
+  background-color:#000000;
+  color: #ffffff;
+  /*can include additional padding*/
+}
+
+
+
+.projects-page-title {
+  padding-top: 6.5rem;
+  font-weight: bold;
+  font-size: 5.5rem;
+  /* text-align: left; */
+}
+
+.projects-title-description {
+  margin-bottom: 0;
+}
+
+.projects-title-image {
+  width: 12rem;
+}
+
+html:not([data-scroll="0"]) .projects-nav, .navbar{
+    background-color: #f8f9fa;
+}
+
+html:not([data-scroll]) .projects-nav, .navbar{
+    background-color: #000000;
+}
+
+
+.project-gif {
+  width: 38rem;
+}
