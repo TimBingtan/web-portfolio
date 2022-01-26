@@ -209,10 +209,64 @@ li {
 
 .simon {
   font-family: 'Press Start 2P', cursive;
-  color: #FEF2BF;
+  /*color: #FEF2BF;*/
+  color: #FFFBEE;
 }
 
 .tindawg {
   font-family: "Ubuntu";
   font-weight: bold;
 }
+
+.project-row {
+  padding: 15rem 4rem;
+}
+
+.project-title {
+  font-size: 48px;
+}
+
+.project-description {
+  margin-top: 2rem;
+  color: #ffffff;
+}
+
+#fineapple-studios {
+  background-color: #FF67FF;
+}
+
+.project-title-box.fineapple {
+  width: 23rem;
+  padding: 3px 0px;
+  background-color:#000000;
+}
+
+.fineapple, .keeper, .tindawg .project-title {
+  color: #ffffff;
+}
+
+#keeper-app {
+  background-color: #8BD1FF;
+}
+
+#life-of-timmybing {
+  background-color: #FBE661;
+}
+
+.project-title-box.life-blog {
+  width: 38rem;
+  margin: 5px auto;
+  background-color:#ffffff;
+}
+
+#drum-kit {
+  /*background-color: #283149;*/
+  background-color: #2F374E;
+}
+
+#simon-game {
+  background-color: #FCD964;
+}
+
+#tindawg {
+  background-color: #FF657D;
