@@ -183,6 +183,11 @@ li {
   padding: 6px;
 }
 
+.project-list a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .project-gif {
   width: 38rem;
 }
@@ -251,7 +256,7 @@ li {
 }
 
 #life-of-timmybing {
-  background-color: #FBE661;
+  background-color: #F1E4C3;
 }
 
 .project-title-box.life-blog {
