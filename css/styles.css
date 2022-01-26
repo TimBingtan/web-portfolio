@@ -218,6 +218,11 @@ li {
   font-weight: bold;
 }
 
+.fineapple, .keeper, .tindawg, .life-blog {
+  color: #ffffff;
+}
+
+
 .project-row {
   padding: 15rem 4rem;
 }
@@ -241,10 +246,6 @@ li {
   background-color:#000000;
 }
 
-.fineapple, .keeper, .tindawg .project-title {
-  color: #ffffff;
-}
-
 #keeper-app {
   background-color: #8BD1FF;
 }
@@ -256,7 +257,7 @@ li {
 .project-title-box.life-blog {
   width: 38rem;
   margin: 5px auto;
-  background-color:#ffffff;
+  background-color:#000000;
 }
 
 #drum-kit {
