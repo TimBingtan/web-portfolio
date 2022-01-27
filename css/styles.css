@@ -186,6 +186,7 @@ li {
 .project-list a:hover {
   color: #ffffff;
   text-decoration: none;
+  font-size: 3.5rem;
 }
 
 .project-gif {
