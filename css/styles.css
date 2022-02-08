@@ -109,9 +109,12 @@ html:not([data-scroll]) .home-nav{
 }
 
 .link-projects {
-  
+
 }
 
+.portfolio-icon {
+  width: 8rem;
+}
 
 .references {
   background-color: #85e6f6;
