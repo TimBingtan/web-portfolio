@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h5 {
+h5, h6 {
   font-weight: bold;
 }
 
@@ -14,6 +14,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+ /* section {
+  padding-top: 70px;
+  margin-top: -50px;
+} */
+
 
 .menu {
   font-size: 21px;
@@ -73,7 +79,7 @@ html:not([data-scroll]) .home-nav{
 
 }
 
-.cloud-space {
+/* .cloud-space {
   padding-top: 20rem;
   overflow: hidden;
 }
@@ -83,7 +89,8 @@ html:not([data-scroll]) .home-nav{
   width: 10%;
   position: relative;
   left: -9rem;
-}
+} */
+
 
 .experience-row {
   margin: 5rem auto 0 auto;
@@ -92,10 +99,15 @@ html:not([data-scroll]) .home-nav{
 }
 
 .exp-img {
-  float: left;
   width: 22rem;
   padding: 2rem;
+  float: left;
 }
+
+
+/* .experience-sc, .project-sc {
+  padding-bottom: 50px;
+} */
 
 .project-sc {
   background-color:#000000;
@@ -106,10 +118,6 @@ html:not([data-scroll]) .home-nav{
   float: right;
   width: 22rem;
   padding: 2rem;
-}
-
-.portfolio-icon {
-  width: 8rem;
 }
 
 .references {
