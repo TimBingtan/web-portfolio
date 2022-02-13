@@ -305,8 +305,10 @@ li {
 }
 
 #drum-kit {
-  /*background-color: #283149;*/
-  background-color: #2F374E;
+  /* background-color: #9F9F9F; */
+  /* background-color: #9092DE; */
+  background-color: #90A7DE;
+  /* background-color: #90BFDE; */
 }
 
 #simon-game {
@@ -314,4 +316,4 @@ li {
 }
 
 #tindawg {
-  background-color: #FF657D;
+  background-color: #C1C1C1;
