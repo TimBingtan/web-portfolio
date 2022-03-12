@@ -8,3 +8,10 @@
 document.addEventListener('scroll', () => {
   document.documentElement.dataset.scroll = window.scrollY;
 });
+
+// Test with one list element first. The first online
+// const testListItem = $(".life-blog");
+//
+// testListItem.addEventListener("mouseover", function(event) {
+//   console.log("got here");
+// });
