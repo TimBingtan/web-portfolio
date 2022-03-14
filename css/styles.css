@@ -188,8 +188,8 @@ html:not([data-scroll]) .home-nav{
 }
 
 .projects-title-image {
-  width: 15rem;
-  margin-bottom: 25px;
+  width: 30rem;
+  margin-bottom: 0;
 }
 
 /* html:not([data-scroll="0"]) .projects-nav{
@@ -206,14 +206,22 @@ html:not([data-scroll]) .projects-nav{
   padding-bottom: 6rem;
 }
 
-li {
-  padding: 6px;
+.project-li {
+  padding: 10px;
+  margin: 18px;
+  max-height: 60.5px;
 }
+
+.project-list a {
+  transition: 0.1s;
+}
+
+
 
 .project-list a:hover {
   color: #ffffff;
   text-decoration: none;
-  font-size: 3.5rem;
+  font-size: 3.2rem;
 }
 
 .project-gif {
@@ -244,6 +252,10 @@ li {
   font-family: 'Press Start 2P', cursive;
   /*color: #FEF2BF;*/
   color: #FFFBEE;
+}
+
+.simon:hover {
+  color: #FFFBEE !important;
 }
 
 .tindawg {
