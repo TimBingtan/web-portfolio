@@ -130,6 +130,14 @@ html:not([data-scroll]) .home-nav{
   padding: 2rem;
 }
 
+.link-grey {
+  color: #787A91;
+}
+
+.link-grey:hover {
+  color: #787A91;
+}
+
 .references {
   background-color: #85e6f6;
 }
@@ -319,7 +327,10 @@ html:not([data-scroll]) .projects-nav{
 } */
 
 #life-of-timmybing {
-  background-color: #F1E4C3;
+  /* background-color: #F1E4C3; */
+  /* background-color: #DAB88B; */
+  /* background-color: #E3CAA5; */
+  background-color: #ECC488;
 }
 
 .project-title-box.life-blog {
