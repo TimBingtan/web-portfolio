@@ -15,10 +15,22 @@ a:hover {
   text-decoration: underline;
 }
 
- /* section {
+#experience {
   padding-top: 70px;
+  margin-top: -25px;
+  padding-bottom: 20px;
+}
+
+
+#projects {
+  padding-top: 50px;
   margin-top: -50px;
-} */
+}
+
+#resources {
+  padding-top: 50px;
+  margin-top: -50px;
+}
 
 
 .menu {
@@ -31,6 +43,10 @@ a:hover {
 
 .navbar {
   transition: background-color 0.3s ease-in;
+}
+
+.menu {
+  margin-right: 30px;
 }
 
 
@@ -120,6 +136,14 @@ html:not([data-scroll]) .home-nav{
   padding: 2rem;
 }
 
+.link-grey {
+  color: #787A91;
+}
+
+.link-grey:hover {
+  color: #787A91;
+}
+
 .references {
   background-color: #85e6f6;
 }
@@ -161,9 +185,10 @@ html:not([data-scroll]) .home-nav{
 
 
 .projects-page-title {
-  padding-top: 5rem;
+  padding-top: 2.8rem;
+  padding-bottom: 15px;
   font-weight: bold;
-  font-size: 5.5rem;
+  font-size: 6.2rem;
   /* text-align: left; */
 }
 
@@ -177,7 +202,8 @@ html:not([data-scroll]) .home-nav{
 }
 
 .projects-title-image {
-  width: 15rem;
+  width: 30rem;
+  margin-bottom: 0;
 }
 
 /* html:not([data-scroll="0"]) .projects-nav{
@@ -194,14 +220,22 @@ html:not([data-scroll]) .projects-nav{
   padding-bottom: 6rem;
 }
 
-li {
-  padding: 6px;
+.project-li {
+  padding: 10px;
+  margin: 18px;
+  max-height: 60.5px;
 }
+
+.project-list a {
+  transition: 0.1s;
+}
+
+
 
 .project-list a:hover {
   color: #ffffff;
   text-decoration: none;
-  font-size: 3.5rem;
+  font-size: 3.2rem;
 }
 
 .project-gif {
@@ -232,6 +266,10 @@ li {
   font-family: 'Press Start 2P', cursive;
   /*color: #FEF2BF;*/
   color: #FFFBEE;
+}
+
+.simon:hover {
+  color: #FFFBEE !important;
 }
 
 .tindawg {
@@ -268,7 +306,7 @@ li {
 }
 
 .project-link:hover {
-  color: #ffffff;
+  color: #444444;
 }
 
 
@@ -295,7 +333,10 @@ li {
 } */
 
 #life-of-timmybing {
-  background-color: #F1E4C3;
+  /* background-color: #F1E4C3; */
+  /* background-color: #DAB88B; */
+  /* background-color: #E3CAA5; */
+  background-color: #ECC488;
 }
 
 .project-title-box.life-blog {
