@@ -15,15 +15,21 @@ a:hover {
   text-decoration: underline;
 }
 
-#experience, #resources {
-  padding-top: 50px;
-  margin-top: -50px;
+#experience {
+  padding-top: 70px;
+  margin-top: -25px;
+  padding-bottom: 20px;
 }
 
 
 #projects {
-  padding-top: 60px;
-  margin-top: -60px;
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+#resources {
+  padding-top: 50px;
+  margin-top: -50px;
 }
 
 
