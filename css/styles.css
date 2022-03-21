@@ -15,15 +15,21 @@ a:hover {
   text-decoration: underline;
 }
 
-#experience, #resources {
-  padding-top: 50px;
-  margin-top: -50px;
+#experience {
+  padding-top: 70px;
+  margin-top: -25px;
+  padding-bottom: 20px;
 }
 
 
 #projects {
-  padding-top: 60px;
-  margin-top: -60px;
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+#resources {
+  padding-top: 50px;
+  margin-top: -50px;
 }
 
 
@@ -37,6 +43,10 @@ a:hover {
 
 .navbar {
   transition: background-color 0.3s ease-in;
+}
+
+.menu {
+  margin-right: 30px;
 }
 
 
@@ -124,6 +134,14 @@ html:not([data-scroll]) .home-nav{
   float: right;
   width: 22rem;
   padding: 2rem;
+}
+
+.link-grey {
+  color: #787A91;
+}
+
+.link-grey:hover {
+  color: #787A91;
 }
 
 .references {
@@ -288,7 +306,7 @@ html:not([data-scroll]) .projects-nav{
 }
 
 .project-link:hover {
-  color: #ffffff;
+  color: #444444;
 }
 
 
@@ -315,7 +333,10 @@ html:not([data-scroll]) .projects-nav{
 } */
 
 #life-of-timmybing {
-  background-color: #F1E4C3;
+  /* background-color: #F1E4C3; */
+  /* background-color: #DAB88B; */
+  /* background-color: #E3CAA5; */
+  background-color: #ECC488;
 }
 
 .project-title-box.life-blog {
