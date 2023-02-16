@@ -15,6 +15,10 @@ a:hover {
   text-decoration: underline;
 }
 
+h2 {
+  margin-bottom: 0rem;
+}
+
 #experience {
   padding-top: 70px;
   margin-top: -25px;
@@ -125,7 +129,7 @@ html:not([data-scroll]) .home-nav{
   padding-bottom: 50px;
 } */
 
-.project-sc {
+.project-cert {
   background-color:#000000;
   color: #ffffff;
 }
@@ -142,6 +146,12 @@ html:not([data-scroll]) .home-nav{
 
 .link-grey:hover {
   color: #787A91;
+}
+
+.certifications {
+  background-color: #F5E8C7;
+  /* background-color: #FFEBB7; */
+  padding-bottom: 5rem;
 }
 
 .references {
