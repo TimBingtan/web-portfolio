@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h5, h6 {
+h5 {
   font-weight: bold;
 }
 
@@ -80,10 +80,18 @@ html:not([data-scroll]) .home-nav{
   padding: 0;
 }
 
-.description {
+.title {
   font-size: 1.75rem;
-  text-align: right;
-  padding-right: 20%;
+}
+
+.description {
+  /* color: #B2B2B2; */
+  color: #73777B;
+}
+
+.title-description {
+  text-align: left;
+  padding: 4.5% 0 0 16%;
 }
 
 .experience-title {
