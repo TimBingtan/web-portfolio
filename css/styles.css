@@ -203,7 +203,7 @@ html:not([data-scroll]) .home-nav{
 
 
 .projects-page-title {
-  padding-top: 2.8rem;
+  padding-top: 1.8rem;
   padding-bottom: 15px;
   font-weight: bold;
   font-size: 6.2rem;
@@ -220,7 +220,7 @@ html:not([data-scroll]) .home-nav{
 }
 
 .projects-title-image {
-  width: 30rem;
+  width: 12rem;
   margin-bottom: 0;
 }
 
