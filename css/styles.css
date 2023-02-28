@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h5, h6 {
+h5 {
   font-weight: bold;
 }
 
@@ -13,6 +13,10 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+h2 {
+  margin-bottom: 0rem;
 }
 
 #experience {
@@ -76,10 +80,18 @@ html:not([data-scroll]) .home-nav{
   padding: 0;
 }
 
-.description {
+.title {
   font-size: 1.75rem;
-  text-align: right;
-  padding-right: 20%;
+}
+
+.description {
+  /* color: #B2B2B2; */
+  color: #73777B;
+}
+
+.title-description {
+  text-align: left;
+  padding: 4.5% 0 0 16%;
 }
 
 .experience-title {
@@ -125,7 +137,7 @@ html:not([data-scroll]) .home-nav{
   padding-bottom: 50px;
 } */
 
-.project-sc {
+.project-cert {
   background-color:#000000;
   color: #ffffff;
 }
@@ -142,6 +154,12 @@ html:not([data-scroll]) .home-nav{
 
 .link-grey:hover {
   color: #787A91;
+}
+
+.certifications {
+  background-color: #F5E8C7;
+  /* background-color: #FFEBB7; */
+  padding-bottom: 5rem;
 }
 
 .references {
@@ -185,7 +203,7 @@ html:not([data-scroll]) .home-nav{
 
 
 .projects-page-title {
-  padding-top: 2.8rem;
+  padding-top: 1.8rem;
   padding-bottom: 15px;
   font-weight: bold;
   font-size: 6.2rem;
@@ -202,7 +220,7 @@ html:not([data-scroll]) .home-nav{
 }
 
 .projects-title-image {
-  width: 30rem;
+  width: 12rem;
   margin-bottom: 0;
 }
 
