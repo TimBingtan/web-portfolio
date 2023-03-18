@@ -153,6 +153,10 @@ html:not([data-scroll]) .home-nav{
   padding-bottom: 50px;
 } */
 
+.skillstools {
+
+}
+
 .project-cert {
   background-color:#000000;
   color: #ffffff;
@@ -172,9 +176,13 @@ html:not([data-scroll]) .home-nav{
   color: #787A91;
 }
 
+.skillstools {
+  background-color: #E5E0FF;
+  padding: 3.2rem 0 5rem;
+}
+
 .certifications {
   background-color: #F5E8C7;
-  /* background-color: #FFEBB7; */
   padding-bottom: 5rem;
 }
 
