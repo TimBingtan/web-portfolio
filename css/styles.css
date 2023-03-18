@@ -76,7 +76,7 @@ html:not([data-scroll]) .home-nav{
 }
 
 .intro-profile {
-  padding: 14vw 2.8vw;
+  padding: 14vw 2.8vw 7vw;
 }
 
 
@@ -123,6 +123,10 @@ html:not([data-scroll]) .home-nav{
   position: relative;
   left: -9rem;
 } */
+
+.brand-statement {
+  padding-top: 20rem;
+}
 
 
 .experience-row {
