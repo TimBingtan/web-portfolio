@@ -198,6 +198,15 @@ html:not([data-scroll]) .home-nav{
   color: #787A91;
 }
 
+.link-special {
+  color: #F5E8C7;
+  /* text-decoration: underline; */
+}
+
+.link-special:hover {
+  color: #ffffff;
+}
+
 .skillstools {
   background-color: #E5E0FF;
   padding: 3.2rem 0 5rem;
