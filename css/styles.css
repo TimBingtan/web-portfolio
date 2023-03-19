@@ -161,6 +161,11 @@ html:not([data-scroll]) .home-nav{
 
 }
 
+.project-row-main {
+  padding: 8rem 4rem;
+}
+
+
 .project-cert {
   background-color:#000000;
   color: #ffffff;
