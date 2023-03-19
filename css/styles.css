@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h5 {
+h3, h4, h5 {
   font-weight: bold;
 }
 
@@ -157,8 +157,17 @@ html:not([data-scroll]) .home-nav{
   padding-bottom: 50px;
 } */
 
-.skillstools {
+.skillstools .experience-title {
+  padding-bottom: 3.5rem;
+}
 
+.skill-subheading {
+  color: #73777B;
+  padding-bottom: 20px;
+}
+
+.list-title {
+  text-decoration: underline;
 }
 
 .project-row-main {
@@ -280,7 +289,6 @@ html:not([data-scroll]) .projects-nav{
 .project-list a {
   transition: 0.1s;
 }
-
 
 
 .project-list a:hover {
