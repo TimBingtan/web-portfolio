@@ -141,7 +141,7 @@ html:not([data-scroll]) .home-nav{
 
 
 .experience-row {
-  margin: 5rem auto 0 auto;
+  margin: 2rem auto 0 auto;
   padding-bottom: 5.5rem;
   line-height: 2;
 }
@@ -170,8 +170,12 @@ html:not([data-scroll]) .home-nav{
   text-decoration: underline;
 }
 
+.projects-block {
+  padding-bottom: 5rem;
+}
+
 .project-row-main {
-  padding: 8rem 4rem;
+  padding: 5rem 4rem;
 }
 
 
