@@ -224,6 +224,10 @@ html:not([data-scroll]) .home-nav{
   color: #ffffff;
 }
 
+.contact-info h3 {
+  font-weight: normal;
+}
+
 .contact-row {
   padding: 5rem 7rem;
 }
