@@ -19,6 +19,10 @@ h2 {
   margin-bottom: 0rem;
 }
 
+li {
+  list-style-type: none;
+}
+
 #experience {
   padding-top: 70px;
   margin-top: -25px;
