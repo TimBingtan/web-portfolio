@@ -100,7 +100,8 @@ html:not([data-scroll]) .home-nav{
 
 .title-description {
   text-align: left;
-  padding: 4.5% 0 0 16%;
+  padding: 4.5% 0 0 8%;
+  margin-left: 0;
 }
 
 .experience-title {
