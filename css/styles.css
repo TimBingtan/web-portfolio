@@ -100,7 +100,8 @@ html:not([data-scroll]) .home-nav{
 
 .title-description {
   text-align: left;
-  padding: 4.5% 0 0 16%;
+  padding: 4.5% 0 0 4.5%;
+  margin-left: 0;
 }
 
 .experience-title {
@@ -130,7 +131,7 @@ html:not([data-scroll]) .home-nav{
 
 .brand-statement {
   padding: 15rem 0 4.5rem;
-  color: #73777B;
+  /* color: #73777B; */
 }
 
 .brand-paragraph {
@@ -332,6 +333,11 @@ html:not([data-scroll]) .projects-nav{
   font-family: "Helvetica Neue", "Helvetica" , "Arial", sans-serif;
 }
 
+.majestic {
+  font-family: 'Dancing Script', cursive;
+  font-size: 200px;
+}
+
 .drum-kit {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -420,6 +426,7 @@ html:not([data-scroll]) .projects-nav{
   margin: 5px auto;
   background-color:#000000;
 }
+
 
 #drum-kit {
   /* background-color: #9F9F9F; */
