@@ -130,7 +130,7 @@ html:not([data-scroll]) .home-nav{
 
 .brand-statement {
   padding: 15rem 0 4.5rem;
-  color: #73777B;
+  /* color: #73777B; */
 }
 
 .brand-paragraph {
