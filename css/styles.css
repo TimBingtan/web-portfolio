@@ -76,14 +76,14 @@ html:not([data-scroll]) .home-nav{
 }
 
 .f1-name {
-  -webkit-animation: fadeInLeft 1.5s 0.2s ease-out forwards;
+  -webkit-animation: fadeInLeft 1.5s 0.3s ease-out forwards;
   /* -moz-animation: fadeIn 4s;
   -o-animation: fadeIn 4s;
   -ms-animation: fadeIn 4s; */
 }
 
 .f1-pic {
-  -webkit-animation: fadeInRight 1.5s 0.2s ease-out forwards;
+  -webkit-animation: fadeInRight 1.5s 0.3s ease-out forwards;
 }
 
 .f2 {
