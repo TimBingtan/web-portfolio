@@ -72,11 +72,28 @@ html:not([data-scroll]) .home-nav{
 }
 
 .fade-in {
-  animation: fadeIn 4s;
-  -webkit-animation: fadeIn 4s;
-  -moz-animation: fadeIn 4s;
+  opacity: 0;
+}
+
+.f1 {
+  -webkit-animation: fadeIn 1.1s 0s ease-in forwards;
+  /* -moz-animation: fadeIn 4s;
   -o-animation: fadeIn 4s;
-  -ms-animation: fadeIn 4s;
+  -ms-animation: fadeIn 4s; */
+}
+
+.f2 {
+  -webkit-animation: fadeIn 1.1s 0.5s ease-in forwards;
+  /* -moz-animation: fadeIn 4s;
+  -o-animation: fadeIn 4s;
+  -ms-animation: fadeIn 4s; */
+}
+
+.f3 {
+  -webkit-animation: fadeIn 1.1s 1s ease-in forwards;
+  /* -moz-animation: fadeIn 4s 6s;
+  -o-animation: fadeIn 4s 6s;
+  -ms-animation: fadeIn 4s 6s; */
 }
 
 @keyframes fadeIn {
