@@ -85,7 +85,7 @@ html:not([data-scroll]) .home-nav{
 
 
 .name {
-  font-size: 7rem;
+  font-size: 6.5rem;
   padding-left: 8.5%;
   text-align: left;
 }
@@ -344,6 +344,12 @@ html:not([data-scroll]) .projects-nav{
 
 .majestic {
   font-family: 'Dancing Script', cursive;
+  font-size: 200px;
+}
+
+.messy {
+  /* font-family: 'Inconsolata', monospace; */
+  font-family: 'Delicious Handrawn', cursive;
   font-size: 200px;
 }
 
