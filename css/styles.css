@@ -180,6 +180,10 @@ html:not([data-scroll]) .home-nav{
   padding: 5rem 4rem;
 }
 
+/* .project-row-alt {
+  padding: 5rem 10rem;
+} */
+
 
 .project-cert {
   background-color:#000000;
@@ -190,6 +194,10 @@ html:not([data-scroll]) .home-nav{
   float: right;
   width: 22rem;
   padding: 2rem;
+}
+
+.proj-img-alt {
+  width: 30rem;
 }
 
 .link-grey {
@@ -336,6 +344,11 @@ html:not([data-scroll]) .projects-nav{
 
 .majestic {
   font-family: 'Dancing Script', cursive;
+  font-size: 200px;
+}
+
+.app-model {
+  font-family: 'Open Sans', sans-serif;
   font-size: 200px;
 }
 
