@@ -63,6 +63,7 @@ li {
 }
 
 
+
 html:not([data-scroll="0"]) .home-nav{
     background-color: #f8f9fa;
 }
@@ -70,6 +71,7 @@ html:not([data-scroll="0"]) .home-nav{
 html:not([data-scroll]) .home-nav{
     background-color: #F5E8C7;
 }
+
 
 .fade-in {
   opacity: 0;
@@ -213,6 +215,7 @@ html:not([data-scroll]) .home-nav{
 
 .intro-section {
   background-color: #F5E8C7;
+  /* background: linear-gradient(45deg, red, orange); */
   background-size: 100%;
   color: #000000;
 }
